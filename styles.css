@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: #FFB000;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#rentree{
+    width: 80%;
+    height: 150px;
+    background-color: #FFDD00;
+    margin: 0 auto;
+}
+
+p{
+    color: #E62A00;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    top: 100px;
+    left: 35%;
+}
+
+
+
+
+#demo{
+    color: red;
+    text-align: center;
+}
+
+
